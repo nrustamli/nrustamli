@@ -1,7 +1,7 @@
 ## Hi there! 
 I'm an engineer building AI and ML-powered products (MSc Machine Learning, UCL). 
 
-[⭐️ My Personal Website](https://github.com/nrustamli/personal-website)
+[⭐️ My Personal Website](https://nurana.rustam.li/)
 
 #### Here are some things that I have recently built
 - [🎨 Spot the Artist](https://github.com/nrustamli/spot_the_artist) - AI-powered street art verification platform (CLIP)
