@@ -1,5 +1,5 @@
 ## Hi there! 
-I'm an engineer building AI and ML-powered products (MSc Machine Learning, UCL). 
+I'm an engineer building AI and ML-powered products (MSc Data Science and Machine Learning, UCL). 
 
 [⭐️ My Personal Website](https://nurana.rustam.li/)
 
